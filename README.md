@@ -24,6 +24,11 @@ High schooler from Nepal building websites and occasionally fixing my own bugs �
 - I once tried to code a game in 24 hours… ended up making a website instead 🕹️➡️💻
 - Coffee > Sleep ☕💤
 - Git commits are my cardio 💪
+- Fun Stuff 😎
+- 🌱 Learning web development & AI  
+- 🎮 Gaming in free time  
+- Sometimes write weird code that actually works
+
 
 
 
@@ -34,4 +39,4 @@ High schooler from Nepal building websites and occasionally fixing my own bugs �
 
 
 
-![fun gif](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
+![fun gif](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)  ![Hello](https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif)  ![Coding](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)  ![Celebration](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)
