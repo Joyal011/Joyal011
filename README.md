@@ -29,3 +29,8 @@ High schooler from Nepal building websites and occasionally fixing my own bugs ð
 
 
 ![Joel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joyal011&show_icons=true&theme=radical)
+
+
+
+
+![Joel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joyal011&show_icons=true&theme=radical)
