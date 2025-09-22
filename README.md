@@ -18,7 +18,7 @@ High schooler from Nepal building websites and occasionally fixing my own bugs ð
 
   
 <!-- Container -->
-<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 40px;">
+<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 40px;"/>
 
   <!-- Left side: Fun Facts -->
   <div style="flex: 1;">
