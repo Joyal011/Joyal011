@@ -16,26 +16,30 @@ High schooler from Nepal building websites and occasionally fixing my own bugs �
 - **Cartico** – Bookstore website. [Live Demo](https://cortico.netlify.app)                                 
 - **portfolio** – Portfolio. [Live Demo](https://cortico.netlify.app)
 
-- 
-<div style="float: left; margin-right: 80px; margin-bottom: 40px;">
-## 🎯 Fun Facts
+  
+<div style="display: flex; align-items: flex-start; gap: 40px;">
 
-<ul style="position: relative;">
-  <li>I once tried to code a game in 24 hours… ended up making a website instead 🕹️➡️💻</li>
-  <li>Coffee > Sleep ☕💤</li>
-  <li>Git commits are my cardio 💪</li>
-  <li>🌱 Learning web development & AI</li>
-  <li>🎮 Gaming in free time</li>
-  <li>Sometimes write weird code that actually works</li>
+  <!-- Left side: Fun Facts -->
+  <div>
+    <h2>🎯 Fun Facts</h2>
+    <ul>
+      <li>I once tried to code a game in 24 hours… ended up making a website instead 🕹️➡️💻</li>
+      <li>Coffee > Sleep ☕💤</li>
+      <li>Git commits are my cardio 💪</li>
+      <li>🌱 Learning web development & AI</li>
+      <li>🎮 Gaming in free time</li>
+      <li>Sometimes write weird code that actually works</li>
+    </ul>
+  </div>
 
-  <!-- GIF floated to the right -->
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJtZm55YnVlOWtwbHpiNDRpNXVueDc3cXNhcm91bjV3NDRmcW96dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" 
-       width="200" 
-       style="float: right; margin-left: 20px; margin-bottom: 10px;">
-</ul>
+  <!-- Right side: GIF -->
+  <div>
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJtZm55YnVlOWtwbHpiNDRpNXVueDc3cXNhcm91bjV3NDRmcW96dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" 
+         width="200" 
+         style="border-radius: 10px;">
+  </div>
 
- 
+</div>
 
- </div>
 
 ![Joel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joyal011&show_icons=true&theme=radical)
