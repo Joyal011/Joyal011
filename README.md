@@ -38,8 +38,8 @@ High schooler from Nepal building websites and occasionally fixing my own bugs ð
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="200" style="margin-right:20px;" />
+  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="200" style="margin-right:100px;" />
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTV1dHBua3VwODVxM3plbXlnZDdqOHV6MXBkZW03cXU3bzg0eXc1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" width="200" style="margin-right:20px;" />
-  <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="200" style="margin-right:100px/>
 </p>
 
