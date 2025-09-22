@@ -29,7 +29,7 @@ High schooler from Nepal building websites and occasionally fixing my own bugs �
       <li>Git commits are my cardio 💪</li>
       <li>🌱 Learning web development & AI</li>
       <li>🎮 Gaming in free time</li>
-      <li>Sometimes write weird code that actually works</li>
+      <li>Sometimes write weird code that might work</li>
     </ul>
   </div>
 
