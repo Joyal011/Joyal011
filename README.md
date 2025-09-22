@@ -24,3 +24,8 @@ High schooler from Nepal building websites and occasionally fixing my own bugs �
 - I once tried to code a game in 24 hours… ended up making a website instead 🕹️➡️💻
 - Coffee > Sleep ☕💤
 - Git commits are my cardio 💪
+
+
+
+
+![Joel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joyal011&show_icons=true&theme=radical)
