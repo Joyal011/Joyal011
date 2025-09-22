@@ -38,5 +38,5 @@ High schooler from Nepal building websites and occasionally fixing my own bugs ð
 
 
 
-
-![fun gif](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)  ![Hello](https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif)  ![Coding](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)  ![Celebration](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)
+<img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="200">
+<img src="https://media.giphy.com/media/3o7aD4V1BxY55LRJhi/giphy.gif" width="200">
