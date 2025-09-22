@@ -18,18 +18,22 @@ High schooler from Nepal building websites and occasionally fixing my own bugs �
 
 - 
 <div style="float: left; margin-right: 80px; margin-bottom: 40px;">
-<ul>
-  ## 🎯 Fun Facts
-  
-<li> I once tried to code a game in 24 hours… ended up making a website instead 🕹️➡️💻</li> 
-<li> Coffee > Sleep ☕💤</li>
-<li> Git commits are my cardio 💪 </li> 
-<li> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJtZm55YnVlOWtwbHpiNDRpNXVueDc3cXNhcm91bjV3NDRmcW96dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="200"/></li>
+## 🎯 Fun Facts
 
-<li> 🌱 Learning web development & AI  </li>
-<li>  🎮 Gaming in free time  </li>
-<li>  Sometimes write weird code that actually works</li>
+<ul style="position: relative;">
+  <li>I once tried to code a game in 24 hours… ended up making a website instead 🕹️➡️💻</li>
+  <li>Coffee > Sleep ☕💤</li>
+  <li>Git commits are my cardio 💪</li>
+  <li>🌱 Learning web development & AI</li>
+  <li>🎮 Gaming in free time</li>
+  <li>Sometimes write weird code that actually works</li>
+
+  <!-- GIF floated to the right -->
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJtZm55YnVlOWtwbHpiNDRpNXVueDc3cXNhcm91bjV3NDRmcW96dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" 
+       width="200" 
+       style="float: right; margin-left: 20px; margin-bottom: 10px;">
 </ul>
+
  
 
  </div>
