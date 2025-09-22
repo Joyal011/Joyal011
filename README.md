@@ -2,7 +2,7 @@
 
 
 <div style="float: left; margin-right: 80px; margin-bottom: 40px;">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJtZm55YnVlOWtwbHpiNDRpNXVueDc3cXNhcm91bjV3NDRmcW96dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="200"/>
+
 </div>
 
 # Hey there, I'm Joel 👋
@@ -15,7 +15,7 @@ High schooler from Nepal building websites and occasionally fixing my own bugs �
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 📂 Projects
-- **Cartico** – Bookstore website. [Live Demo](https://cortico.netlify.app)  
+- **Cartico** – Bookstore website. [Live Demo](https://cortico.netlify.app)                                  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJtZm55YnVlOWtwbHpiNDRpNXVueDc3cXNhcm91bjV3NDRmcW96dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="200"/>
 - **portfolio** – Portfolio. [Live Demo](https://cortico.netlify.app)  
 
 ## 🎯 Fun Facts
