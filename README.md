@@ -17,10 +17,11 @@ High schooler from Nepal building websites and occasionally fixing my own bugs �
 - **portfolio** – Portfolio. [Live Demo](https://cortico.netlify.app)
 
   
-<div style="display: flex; align-items: flex-start; gap: 40px;">
+<!-- Container -->
+<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 40px;">
 
   <!-- Left side: Fun Facts -->
-  <div>
+  <div style="flex: 1;">
     <h2>🎯 Fun Facts</h2>
     <ul>
       <li>I once tried to code a game in 24 hours… ended up making a website instead 🕹️➡️💻</li>
@@ -33,13 +34,14 @@ High schooler from Nepal building websites and occasionally fixing my own bugs �
   </div>
 
   <!-- Right side: GIF -->
-  <div>
+  <div style="flex-shrink: 0;">
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJtZm55YnVlOWtwbHpiNDRpNXVueDc3cXNhcm91bjV3NDRmcW96dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" 
          width="200" 
          style="border-radius: 10px;">
   </div>
 
 </div>
+
 
 
 ![Joel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joyal011&show_icons=true&theme=radical)
