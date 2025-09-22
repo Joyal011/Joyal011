@@ -37,5 +37,5 @@ High schooler from Nepal building websites and occasionally fixing my own bugs ð
 
 
 
-(https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJtZm55YnVlOWtwbHpiNDRpNXVueDc3cXNhcm91bjV3NDRmcW96dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif)
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJtZm55YnVlOWtwbHpiNDRpNXVueDc3cXNhcm91bjV3NDRmcW96dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif">
 
