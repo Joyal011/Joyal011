@@ -35,9 +35,7 @@ High schooler from Nepal building websites and occasionally fixing my own bugs ð
 
 <br clear="both">
 
-<img align="right" height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJtZm55YnVlOWtwbHpiNDRpNXVueDc3cXNhcm91bjV3NDRmcW96dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif"   
-         width="200" 
-         style="border-radius: 10px;"/>
+<img align="right" height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJtZm55YnVlOWtwbHpiNDRpNXVueDc3cXNhcm91bjV3NDRmcW96dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" />
   </div>
 
 </div>
