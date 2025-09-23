@@ -14,7 +14,7 @@ High schooler from Nepal building websites and occasionally fixing my own bugs �
 
 ## 📂 Projects
 - **Cartico** – Bookstore website. [Live Demo](https://cortico.netlify.app)                                 
-- **portfolio** – Portfolio. [Live Demo](https://cortico.netlify.app)
+- **portfolio** – Portfolio. [Live Demo](https://jjoel.netlify.app)
 
   
 <!-- Container -->
