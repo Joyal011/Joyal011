@@ -13,8 +13,8 @@ High schooler from Nepal building websites and occasionally fixing my own bugs �
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 📂 Projects
-- **Cartico** – Bookstore website. [Live Demo](https://cortico.netlify.app)                                 
-- **portfolio** – Portfolio. [Live Demo](https://jjoel.netlify.app)
+- **Cartico** – Bookstore website. [Live Demo]()                                 
+- **portfolio** – Portfolio. [Live Demo]()
 
   
 <!-- Container -->
